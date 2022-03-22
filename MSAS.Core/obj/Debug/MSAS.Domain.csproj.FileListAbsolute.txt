@@ -1,0 +1,4 @@
+C:\Users\GAWSB600\documents\visual studio 2013\MSAS.Domain\bin\Debug\MSAS.Domain.dll
+C:\Users\GAWSB600\documents\visual studio 2013\MSAS.Domain\bin\Debug\MSAS.Domain.pdb
+C:\Users\GAWSB600\documents\visual studio 2013\MSAS.Domain\obj\Debug\MSAS.Domain.dll
+C:\Users\GAWSB600\documents\visual studio 2013\MSAS.Domain\obj\Debug\MSAS.Domain.pdb
